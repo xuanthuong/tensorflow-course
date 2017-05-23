@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    // "python.venvPath": "~/.tensorflow",
+    // "python.pythonPath": "~/.tensorflow/bin/python"
+    "code-runner.executorMap": {
+        "python": "~/.tensorflow/bin/python"
+    },
+    "python.linting.pylintEnabled": false
+}
