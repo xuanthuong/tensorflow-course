@@ -102,7 +102,9 @@ ENV/
 
 # dataset
 mnist/MNIST-data/
-mnist/tmp/
-iris/tmp/
+# mnist/tmp/
+# iris/tmp/
+# boston_house/tmp/
+*/tmp/
 
 .DS_Store

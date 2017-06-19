@@ -1,6 +1,6 @@
 #  -*- coding: utf-8 -*-
 """
-Binary classification - SI and NONSI
+Iris classification example, pratice on using high-level API
 Algorithms: Neutral Network
 Reference: https://www.tensorflow.org/get_started/tflearn
 
