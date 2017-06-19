@@ -103,3 +103,6 @@ ENV/
 # dataset
 mnist/MNIST-data/
 mnist/tmp/
+iris/tmp/
+
+.DS_Store

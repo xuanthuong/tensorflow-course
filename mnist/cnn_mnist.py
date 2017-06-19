@@ -14,6 +14,7 @@
 # ==============================================================================
 # 
 # Studied by Thuong Tran
+# Accuracy: ~97%
 # 
 
 """A very simple MNIST classifier.
